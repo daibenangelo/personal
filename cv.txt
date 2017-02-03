@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+	  My Portfolio - Daiben
+    </title>
+  </head>
+  <body>
+    Hi
+	<br>
+	I'm Daiben!
+    <br>
+	<br>
+    And I'm pretty good at graphic design!
+    <br><br><br><br>
+   	Daiben Angelo A. Sanchez
+	<br>
+	SLU Men’s Residence Hall, Baguio City, Benguet, Philippines
+	<br>
+	Mobile Number: (+63)9568193381
+	<br>
+	E-mail: daibenangelosanchez@gmail.com
+	<br><br><br>
+	Personal Information:
+	<br>
+	Date of Birth: May 20, 1998
+	<br>
+	Gender: Male
+	<br>
+	Provincial Address: Bernal Street, Poblacion East, Rosario, La Union
+	<br>
+	Place of Birth: San Fernando, La Union
+	<br>
+	Marital Status: Single
+	<br>
+	Religion: Roman Catholic
+	<br>
+	Height: 5’7’’
+	<br>
+	Weight: 48 kg
+	<br>
+	Name of Parents:	Daisy A. Sanchez
+	<br>
+	Ruben H. Sanchez
+	<br>
+	Nationality: Filipino
+	<br><br><br>
+	Educational Background:
+	<br>
+	TERTIARY
+	<ul>
+	<li>Saint Louis University</li>
+	<li>Bachelor of School of Computer and Information Science</li>
+	<li>Major in Information and Technology</li>
+	<li>Bonifacio Street, Baguio Cityy</li>
+	<li>2014 - Present</li>
+	</ul>
+	SECONDARY
+	<ul>
+	<li>Saint Mary's Academy</li>
+	<li>Rosario, La Union</li>
+	<li>2010-2014</li>
+	</ul>
+	<br><br><br>
+	Skills:
+	COMPUTER RELATED
+	- Advanced Java programming skills
+	- Advanced SQL programming skills
+	- Advanced HTML and CSS programming skills
+	- Advanced Wikipedia language programming skills
+	- Advanced understanding of basic office applications for creating and editing documents, spreadsheets, presentations, etc.
+	- Basic R programming skills
+	- Basic Prolog programming skills
+	<br><br>
+	NON-COMPUTER RELATED
+	- Adept in English
+	- Adept in Filipino
+	- Adept in Ilocano
+	- Basic understanding of the Japanese language
+	- Drawing 
+	<br>
+	Hobbies:
+	- Graphic design
+	- Web design
+	- Psychology
+  </body>
+</html>
