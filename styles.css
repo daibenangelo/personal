@@ -1,0 +1,13 @@
+body {
+	background-color: maroon;
+	color: white;
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 120px;
+}
+
+big {
+	font_size: 30px;
+	color: yellow;
+}
