@@ -1,13 +1,65 @@
+@font-face {
+    font-family: glory;
+    src: url(glory.ttf);
+}
+
+a {
+	size = 0px;
+}
+
+
 body {
 	background-color: maroon;
 	color: white;
-	font-family: arial;
+	font-family: glory;
 	font-size: 15px;
 	text-align: center;
-	margin-top: 120px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	width: 90%;
+	height: 99%;
+}
+
+down{
+	float:bottom;
 }
 
 big {
-	font_size: 30px;
+	font_size: 40px;
 	color: yellow;
+}
+
+left {
+	float:left;
+}
+
+right {
+	float:right;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    width: 120px;
+    bottom: 110%;
+    left: 50%; 
+    margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
